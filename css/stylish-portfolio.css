@@ -6,6 +6,20 @@
 
 /* Global Styles */
 
+.scrolloff {
+    pointer-events: none;
+}
+
+#services a {
+    color: #FFFFFF;
+}
+
+#services {
+    background-color: #800033
+}
+
+
+
 html,
 body {
     width: 100%;
