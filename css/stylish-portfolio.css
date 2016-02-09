@@ -23,6 +23,19 @@ h1 {
 }
 
 
+#registry {
+    background-color: #FFFFFF
+}
+
+.registry {
+    padding: 50px 0;
+}
+
+.registry-item {
+    margin-bottom: 30px;
+}
+
+
 
 html,
 body {
